@@ -1,6 +1,6 @@
-# IPL-Match-Winner-Prediction
+# Match-Prediciton
 
-The IPL Match Winner Prediction is a machine learning project that aims to predict the outcome of IPL cricket matches. It utilizes historical match data, including team names, venues, toss decisions, player of the match, and other factors to estimate the win probability for each team.
+The Match Prediction is a machine learning project that aims to predict the outcome of IPL cricket matches. It utilizes historical match data, including team names, venues, toss decisions, player of the match, and other factors to estimate the win probability for each team.
 
 # Table of Contents
 - [Dataset](#dataset)
@@ -19,8 +19,8 @@ The dataset used for this project contains historical IPL match data with variou
 # Installation
 To use the IPL Match Winner Prediction, follow these steps: 
 
-1. Clone this repository to your local machine: git clone https://github.com/sanidhyajadaun/IPL-Match-Winner-Prediction <br>
-2. cd ipl-match-winner-prediction
+1. Clone this repository to your local machine: git clone https://github.com/harsh17-bit/Match-Prediction <br>
+2. cd Match-Predicction
 3. Install the required Python packages: pip install -r requirements.txt
 
 # Interface
@@ -40,7 +40,7 @@ To use the IPL Match Winner Prediction, follow these steps:
 4. Click on the "Predict" button to get the win probability for each team.
 
 # Features
-The IPL Match Winner Predictoion System offers the following features:
+The Match Predictoion System offers the following features:
 
 - User-friendly web interface for inputting match details.
 - Prediction of win probability for each team based on historical match data.
